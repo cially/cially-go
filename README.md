@@ -4,6 +4,9 @@
 
 </p>
 
+> [!WARNING]
+> WIP implementation of Cially in Go
+
 # 🪼 Cially
 **Cially** is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement trends, and make data-driven decisions with ease. 
 
